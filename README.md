@@ -16,7 +16,7 @@
         <li><a href="https://hsvasconcellos.github.io/html-css/exercicios/ex009/index.html">Exercício 009</a></li>
         <li><a href="https://hsvasconcellos.github.io/html-css/exercicios/ex010/index.html">Exercício 010</a></li>
         <li><a href="https://hsvasconcellos.github.io/html-css/exercicios/ex011/index.html">Exercício 011</a></li>
-        <li><a href="https://hsvasconcellos.github.io/html-css/exercicios/ex012/index.htmll">Exercício 012</a></li>
+        <li><a href="https://hsvasconcellos.github.io/html-css/exercicios/ex012/index.html">Exercício 012</a></li>
         <li><a href="https://hsvasconcellos.github.io/html-css/exercicios/ex013/index.html">Exercício 013</a></li>
         <li><a href="https://hsvasconcellos.github.io/html-css/exercicios/ex014/index.html">Exercício 014</a></li>
         <li><a href="https://hsvasconcellos.github.io/html-css/exercicios/ex015/index.html">Exercício 015</a></li>
